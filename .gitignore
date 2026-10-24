@@ -1,0 +1,6 @@
+executor.json
+signature.png
+specs/
+out/
+__pycache__/
+*.pyc
